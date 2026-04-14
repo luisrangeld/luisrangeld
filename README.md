@@ -7,7 +7,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am Currently Working at HubSE Demurrage Software as QA Tester.\
+👨‍💻 &nbsp;I am expanding my knowledge and expertise in QA Testing Automation.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Engineering at Politécnico ICAFT .\
 🌱 &nbsp;I'm on track for learning more about Testing Automation, API Automated Testing, Software Development Engineering in Testing.\
